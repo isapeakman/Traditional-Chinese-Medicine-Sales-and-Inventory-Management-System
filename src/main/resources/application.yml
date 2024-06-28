@@ -1,0 +1,7 @@
+spring.application.name: Traditional-Chinese-Medicine-Sales-and-Inventory-Management-System
+server:
+  servlet:
+    context-path: system
+    port: 8080
+
+
